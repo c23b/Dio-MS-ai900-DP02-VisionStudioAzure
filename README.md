@@ -1,6 +1,6 @@
 # Dio-MS-ai900-DP02-VisionStudioAzure
 Desafio de Projeto da DIO para bootcamp ai900 Azure AI Fundamentals - Vision Studio Azure
-- Dentro desse desafio estaremos seguindo as três documentações a seguir, mas note que o inicio de criação e deploy do Resource é igual. Apenas dentro do Vision Studio hvera distinção das documentações.
+- Dentro desse desafio estaremos seguindo as três documentações a seguir, mas note que o inicio de criação e deploy do Resource é igual. Apenas dentro do Vision Studio havera distinção nas documentações.
   - Detect faces => https://aka.ms/ai900-face
   - Tead Text => https://aka.ms/ai900-ocr
   - Analyze Images => https://aka.ms/ai900-image-analysis
